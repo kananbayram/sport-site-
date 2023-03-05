@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .div {
+        background-image: url(Без\ названия.jfif);
+        height: 600px;
+        width: 700px;
+        background-position: center;
+        background-size: cover;
+      }
+      /*arxa fon seklinin css i*/
+      .div1 {
+        height: 350px;
+        width: 350px;
+        background-color: rgb(212, 202, 224);
+        margin-left: 340px;
+        margin-top: -370px;
+        
+      }
+    </style>
+  </head>
+  <body>
+    <div class="div"></div>
+    <!--arxa fonun div i-->
+    <div class="div1">
+      <br /><br />
+      <h1 style="text-align: center"><div style="display: flex;"><div style="margin-right: 10px ;
+      margin-left: 45px;
+      color: rgb(23, 38, 255);">SPOR</div> <div>KULUBU</div></div></h1>
+      <pre style="font-size: larger">
+     Lorem, ipsum dolor.dsssds dsdsds
+     Lorem, ipsum dolordsdsdss 
+     lorem quandd fjfif fjfjf dgodgfj
+     lorem adhj jidu hdchihu jdni ci
+</pre
+      >
+      <br />
+      <p style="text-align: center">ten resim <ins>FREPIC</ins></p>
+
+      <pre
+        style="
+          font-size: x-large;
+          background-color: rgb(23, 38, 255);
+          margin-left: 30px;
+          margin-right: 70px;
+        "
+      ><b>    DAHA FAZLA OKU</b></pre>
+    </div>
+  </body>
+</html>
